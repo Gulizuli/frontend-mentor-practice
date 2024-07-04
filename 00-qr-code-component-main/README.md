@@ -12,8 +12,8 @@ This is my solution to [QR code component](https://www.frontendmentor.io/learnin
 ![image](https://github.com/Gulizuli/frontend-mentor-practice/assets/106880240/23a67218-72d3-4d52-a834-958b63d64460)
 
 # Links
-- Solution URL:
-- Live Demo URL:
+- Solution URL: [My repo](https://github.com/Gulizuli/frontend-mentor-practice/tree/main/00-qr-code-component-main)
+- Live Demo URL: [My demo](https://gulizuli.github.io/frontend-mentor-practice/00-qr-code-component-main/)
 
 # What I learned
 - Set `height` when use `align-items`
