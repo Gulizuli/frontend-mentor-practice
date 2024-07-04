@@ -20,7 +20,7 @@ This is my solution to [QR code component](https://www.frontendmentor.io/learnin
 
 ## Author
 - [My GitHub](https://github.com/Gulizuli)
-- [Frontend Mentor] (https://www.frontendmentor.io/profile/Gulizuli)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Gulizuli)
 
 ## Resource
 - [align-items 失效](https://blog.csdn.net/weixin_42878211/article/details/108296972)
