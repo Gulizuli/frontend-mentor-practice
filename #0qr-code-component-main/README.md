@@ -3,6 +3,7 @@
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
+![image](https://github.com/Gulizuli/frontend-mentor-practice/assets/106880240/4285340c-a898-4abe-932f-9182c24aa108)
 
 Thanks for checking out this front-end coding challenge.
 
