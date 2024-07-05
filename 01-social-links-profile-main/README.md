@@ -1,4 +1,4 @@
-# Frontend Mentor solution - QR-code component main
+# Frontend Mentor solution - Social links profile
 This is my solution to [Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub)
 
 # My process
