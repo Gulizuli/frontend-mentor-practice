@@ -1,5 +1,5 @@
 # Frontend Mentor solution - QR-code component main
-This is my solution to [Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub))
+This is my solution to [Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub)
 
 # My process
 ### How I built this project:
@@ -8,7 +8,8 @@ This is my solution to [Social links profile](https://www.frontendmentor.io/chal
 - CSS Flexbox
 
 # Work Screenshot
-![image](https://github.com/Gulizuli/frontend-mentor-practice/assets/106880240/c127e5fb-09e9-4bf9-bc99-3d1f023ca3aa)
+![image](https://github.com/Gulizuli/frontend-mentor-practice/assets/106880240/866b18a2-804e-445d-b38d-c1af6c11c25e)
+
 
 
 # Links
