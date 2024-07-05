@@ -1,4 +1,4 @@
-# Frontend Mentor solution - QR-code component main
+# Frontend Mentor solution - QR-code component
 This is my solution to [QR code component](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/66862f95983369c533601705/challenge/start)
 
 # My process
