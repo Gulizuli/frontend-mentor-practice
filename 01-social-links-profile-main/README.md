@@ -13,18 +13,18 @@ This is my solution to [Social links profile](https://www.frontendmentor.io/chal
 
 
 # Links
-- Solution URL: [My repo](https://github.com/Gulizuli/frontend-mentor-practice/tree/main/00-qr-code-component-main)
-- Live Demo URL: [My demo](https://gulizuli.github.io/frontend-mentor-practice/00-qr-code-component-main/)
+- Solution URL: [My repo](https://github.com/Gulizuli/frontend-mentor-practice/tree/main/01-social-links-profile-main)
+- Live Demo URL: [My demo](https://gulizuli.github.io/frontend-mentor-practice/01-social-links-profile-main/)
 
 # What I learned
-- Set `height` when use `align-items`
+- Know the differences between `<a></a>` and `<button></button>`
 
 # Author
 - [My GitHub](https://github.com/Gulizuli)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/Gulizuli)
 
 # Resource
-- [align-items 失效](https://blog.csdn.net/weixin_42878211/article/details/108296972)
+- [What Are the Code Differences between Links vs Buttons?](https://accessibleweb.com/question-answer/what-are-the-code-differences-between-links-vs-buttons/)
 
 # Acknowledgments
 Thanks Frontend Mentor for providing the challenge!
