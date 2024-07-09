@@ -8,8 +8,7 @@ This is my solution to [Blog preview card](https://www.frontendmentor.io/learnin
 - CSS Flexbox
 
 # Work Screenshot
-![image](https://github.com/Gulizuli/frontend-mentor-practice/assets/106880240/604ad8ff-9b03-4785-8dc5-a8afaea8d1c0)
-
+![image](https://github.com/Gulizuli/frontend-mentor-practice/assets/106880240/60e96b7d-c5ca-4346-8321-fcd75d2f3c03)
 
 
 # Links
@@ -17,7 +16,8 @@ This is my solution to [Blog preview card](https://www.frontendmentor.io/learnin
 - Live Demo URL: [My demo](https://gulizuli.github.io/frontend-mentor-practice/02-blog-preview-card-main)
 
 # What I learned
-- Know how to use the attributes of `position` 
+- Know how to use the attributes of `position`
+- Know how to use `line-height`
 
 # Author
 - [My GitHub](https://github.com/Gulizuli)
@@ -25,5 +25,6 @@ This is my solution to [Blog preview card](https://www.frontendmentor.io/learnin
 
 # Resource
 - [Day12 經常搞混的CSS Position](https://ithelp.ithome.com.tw/m/articles/10262808)
+- [CSS 教學 – 文字大小、間距、行距、背景圖](http://www.flycan.com/article/css/css-tex-429.html)
 # Acknowledgments
 Thanks Frontend Mentor for providing the challenge!
