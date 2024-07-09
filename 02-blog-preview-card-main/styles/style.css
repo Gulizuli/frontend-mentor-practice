@@ -65,8 +65,11 @@ body .card .content .title {
 }
 body .card .content .title a {
   text-decoration: none;
-  color: hsl(47, 88%, 63%);
+  color: hsl(0, 0%, 7%);
   font-weight: 800;
+}
+body .card .content .title a:hover {
+  color: hsl(47, 88%, 63%);
 }
 body .card .content .describe {
   color: hsl(0, 0%, 50%);
@@ -98,7 +101,8 @@ body .background {
   z-index: -10;
 }
 body .attribution {
-  margin: 2rem;
+  position: absolute;
+  top: 15px;
 }
 body .attribution a {
   text-decoration: none;
