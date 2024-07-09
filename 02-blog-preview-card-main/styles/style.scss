@@ -24,7 +24,7 @@ body {
   .card {
     position: relative;
     width: 375px;
-    height: 500px;
+    height: 520px;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -68,6 +68,7 @@ body {
           text-decoration: none;
           color: $Black;
           font-weight: 800;
+          font-size: 24px;
           &:hover {
             color: $Yellow;
           }
@@ -91,16 +92,16 @@ body {
       }
       .name {
         font-weight: 800;
-        font-size: 16px;
+        font-size: 14px;
       }
     }
   }
   .background {
     position: absolute;
-    top: 15px;
-    left: 15px;
+    top: 5px;
+    left: 5px;
     width: 375px;
-    height: 500px;
+    height: 520px;
     background-color: $Black;
     border-radius: 20px;
     z-index: -10;
@@ -111,7 +112,6 @@ body {
     top: 15px;
     a {
       text-decoration: none;
-      color: rgb(43, 0, 255);
     }
   }
 }

@@ -20,7 +20,7 @@ body {
 body .card {
   position: relative;
   width: 375px;
-  height: 500px;
+  height: 520px;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -67,6 +67,7 @@ body .card .content .title a {
   text-decoration: none;
   color: hsl(0, 0%, 7%);
   font-weight: 800;
+  font-size: 24px;
 }
 body .card .content .title a:hover {
   color: hsl(47, 88%, 63%);
@@ -88,14 +89,14 @@ body .card .author .portrait {
 }
 body .card .author .name {
   font-weight: 800;
-  font-size: 16px;
+  font-size: 14px;
 }
 body .background {
   position: absolute;
-  top: 15px;
-  left: 15px;
+  top: 5px;
+  left: 5px;
   width: 375px;
-  height: 500px;
+  height: 520px;
   background-color: hsl(0, 0%, 7%);
   border-radius: 20px;
   z-index: -10;
@@ -106,5 +107,4 @@ body .attribution {
 }
 body .attribution a {
   text-decoration: none;
-  color: rgb(43, 0, 255);
 }/*# sourceMappingURL=style.css.map */
