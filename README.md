@@ -4,3 +4,4 @@ All the Frontend Mentor challenges I've done are here
 |:-----:|:---:|
 |qr-code-component|[My demo](https://gulizuli.github.io/frontend-mentor-practice/00-qr-code-component-main/)|
 |social-links-profile|[My demo](https://gulizuli.github.io/frontend-mentor-practice/01-social-links-profile-main/)|
+|blog-preview-card|[My demo](https://gulizuli.github.io/frontend-mentor-practice/02-blog-preview-card-main/)|
