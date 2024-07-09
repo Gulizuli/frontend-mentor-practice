@@ -8,7 +8,8 @@ This is my solution to [Blog preview card](https://www.frontendmentor.io/learnin
 - CSS Flexbox
 
 # Work Screenshot
-![image](https://github.com/Gulizuli/frontend-mentor-practice/assets/106880240/7ee7c716-1c73-4e1f-a8cd-3e6abf365164)
+![image](https://github.com/Gulizuli/frontend-mentor-practice/assets/106880240/604ad8ff-9b03-4785-8dc5-a8afaea8d1c0)
+
 
 
 # Links
